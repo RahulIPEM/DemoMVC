@@ -28,3 +28,4 @@
 /home/rahul/VSCodeProjects/MVCProjects/DemoMVC/obj/Debug/netcoreapp2.2/DemoMVC.dll
 /home/rahul/VSCodeProjects/MVCProjects/DemoMVC/obj/Debug/netcoreapp2.2/DemoMVC.pdb
 /home/rahul/VSCodeProjects/MVCProjects/DemoMVC/obj/Debug/netcoreapp2.2/DemoMVC.csproj.CopyComplete
+/home/rahul/VSCodeProjects/MVCProjects/DemoMVC/obj/Debug/netcoreapp2.2/Razor/Views/Home/About.g.cshtml.cs
